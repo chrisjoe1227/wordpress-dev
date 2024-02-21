@@ -16,6 +16,8 @@
     <title>Wordpress Dev</title>
  </head>
  <body>
-
+<header>Header</header>
+<container>Body</container>
+<footer>Footer</footer>
  </body>
  </html>
